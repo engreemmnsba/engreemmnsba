@@ -2,10 +2,10 @@
 
 **Full-Stack Software Engineer** building multi-tenant SaaS products end-to-end — from data modeling and APIs to deployment and post-launch support.
 
-🔹 10+ production systems delivered, most of them multi-tenant SaaS
-🔹 Backend: ASP.NET Core · Node.js · Firebase · SQL Server
-🔹 Frontend & Mobile: Flutter (Android · iOS · Web · Windows)
-🔹 Cloud & DevOps: DigitalOcean · Docker · nginx · systemd · GitHub Actions · Cloudflare
+- 🚀 **10+ production systems** delivered, most of them multi-tenant SaaS
+- ⚙️ **Backend:** ASP.NET Core · Node.js · Firebase · SQL Server
+- 📱 **Frontend & Mobile:** Flutter (Android · iOS · Web · Windows)
+- ☁️ **Cloud & DevOps:** DigitalOcean · Docker · nginx · systemd · GitHub Actions · Cloudflare
 
 ---
 
